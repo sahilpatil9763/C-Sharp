@@ -1,0 +1,10 @@
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.exe
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.pdb
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_Login.resources
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.Properties.Resources.resources
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.csproj.GenerateResource.Cache
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.exe
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.pdb
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_Add_New_Book.resources
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\obj\x86\Debug\Book_Management_System.frm_View_Book_List.resources
+F:\.Net Assignment in VS 2010\Assignment_01\Book_Management_System\Book_Management_System\bin\Debug\Book_Management_System.exe.config
