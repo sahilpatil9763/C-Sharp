@@ -1,0 +1,10 @@
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\bin\Debug\Radio_Button_And_Check_Box.exe.config
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\bin\Debug\Radio_Button_And_Check_Box.exe
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\bin\Debug\Radio_Button_And_Check_Box.pdb
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\obj\Debug\Radio_Button_And_Check_Box.csproj.AssemblyReference.cache
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\obj\Debug\Radio_Button_And_Check_Box.frm_Main_Page.resources
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\obj\Debug\Radio_Button_And_Check_Box.Properties.Resources.resources
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\obj\Debug\Radio_Button_And_Check_Box.csproj.GenerateResource.cache
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\obj\Debug\Radio_Button_And_Check_Box.csproj.CoreCompileInputs.cache
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\obj\Debug\Radio_Button_And_Check_Box.exe
+F:\.Net Assignments\Assignment_05\Radio_Button_And_Check_Box\obj\Debug\Radio_Button_And_Check_Box.pdb
