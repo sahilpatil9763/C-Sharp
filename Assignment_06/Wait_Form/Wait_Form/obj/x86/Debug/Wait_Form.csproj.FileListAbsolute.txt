@@ -1,0 +1,9 @@
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\bin\Debug\Wait_Form.exe
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\bin\Debug\Wait_Form.pdb
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\obj\x86\Debug\Wait_Form.Properties.Resources.resources
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\obj\x86\Debug\Wait_Form.csproj.GenerateResource.Cache
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\obj\x86\Debug\Wait_Form.exe
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\obj\x86\Debug\Wait_Form.pdb
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\obj\x86\Debug\Wait_Form.WaitForm.resources
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\obj\x86\Debug\Wait_Form.Form1.resources
+F:\.net\.Net Assignment in VS 2010\Assignment_06\Wait_Form\Wait_Form\obj\x86\Debug\Wait_Form.frm_Second.resources
