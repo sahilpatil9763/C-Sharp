@@ -1,4 +1,0 @@
-F:\.net\Console Applications\01_Divide_Two_Numbers\01_Divide_Two_Numbers\bin\Debug\01_Divide_Two_Numbers.exe
-F:\.net\Console Applications\01_Divide_Two_Numbers\01_Divide_Two_Numbers\bin\Debug\01_Divide_Two_Numbers.pdb
-F:\.net\Console Applications\01_Divide_Two_Numbers\01_Divide_Two_Numbers\obj\x86\Debug\01_Divide_Two_Numbers.exe
-F:\.net\Console Applications\01_Divide_Two_Numbers\01_Divide_Two_Numbers\obj\x86\Debug\01_Divide_Two_Numbers.pdb
